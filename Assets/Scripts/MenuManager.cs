@@ -26,6 +26,5 @@ public class MenuManager : MonoBehaviour
     public void Exit()
     {
         Application.Quit();
-        EditorApplication.ExitPlaymode();
     }
 }
